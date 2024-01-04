@@ -1,0 +1,2 @@
+# Request with order by nested property
+GET https://localhost:7241/odata/books/1/reviews?$orderby=author/me%20desc
